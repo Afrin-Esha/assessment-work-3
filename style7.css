@@ -225,6 +225,13 @@ nav .banner-inner {
     font-size: 16px;
     color: #666;
 }
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+img {
+    width: 100%;
+}
 .exp {
     background: #f8f9fa;
 	padding: 2em;
